@@ -2,9 +2,9 @@
 #include <time.h>
 #include <stdlib.h>
 /**
- * main - print last digit in random number
+ * main - Entry point
  *
- * Description: print statements based on the last digit in  random number.
+ * Description: print "statements based on the last digit in  random number"
  *
  * Return: Always 0 (success)
  */

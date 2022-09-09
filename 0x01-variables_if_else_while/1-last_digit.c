@@ -6,7 +6,7 @@
  *
  * Description: print "statements based on the last digit in  random number"
  *
- * Return: Always 0 (success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {

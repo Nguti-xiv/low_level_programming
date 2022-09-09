@@ -2,11 +2,11 @@
 #include <time.h>
 #include <stdlib.h>
 /**
- * main - main block
+ * main - print last digit in random number
  *
- * Description: print statements based on the last digit of the random number.
+ * Description: print statements based on the last digit in  random number.
  *
- * Return: 0
+ * Return: Always 0 (success)
  */
 int main(void)
 {

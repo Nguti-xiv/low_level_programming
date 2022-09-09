@@ -1,12 +1,10 @@
-#include <stdio.h>
-#include <time.h>
 #include <stdlib.h>
+#include <time.h>
+#include <stdiio.h>
 /**
- * main - Entry point
- *
- * Description: print "statements based on the last digit in a random number"
- *
- *Return: Always 0 (Success)
+ * main - main block
+ * Description: Print statements based on the last digit of the random number.
+ * Return: 0
  */
 int main(void)
 {
@@ -26,4 +24,3 @@ int main(void)
 
 	return (0);
 }
-	

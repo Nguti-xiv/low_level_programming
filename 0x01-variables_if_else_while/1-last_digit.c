@@ -3,8 +3,10 @@
 #include <stdlib.h>
 /**
  * main - main block
- * Description: print the last digit
- * Return: Always 0 (Success)
+ *
+ * Description: print statements based on the last digit of the random number.
+ *
+ * Return: 0
  */
 int main(void)
 {

@@ -4,9 +4,9 @@
 /**
  * main - Entry point
  *
- * Description: print "statements based on the last digit in  random number"
+ * Description: print "statements based on the last digit in a random number"
  *
- * Return: Always 0 (Success)
+ *Return: Always 0 (Success)
  */
 int main(void)
 {

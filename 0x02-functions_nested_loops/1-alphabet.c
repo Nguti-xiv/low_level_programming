@@ -2,7 +2,7 @@
 
 /**
  * main - main block
- * Description:print alphabet in lowercase.
+ * Description: Print alphabet in lowercase.
  * Rerturn: void
  */
 void print_alphabet(void)
